@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/zerofour-Branding/static/css/main.ecb5eacf.css",
+    "main.js": "/zerofour-Branding/static/js/main.d95e1235.js",
+    "static/media/brand item1.png": "/zerofour-Branding/static/media/brand item1.2a6faa49acda9c7d3a1d.png",
+    "static/media/logodesign.png": "/zerofour-Branding/static/media/logodesign.2000a4c2f3504a937d40.png",
+    "static/media/brand item2.png": "/zerofour-Branding/static/media/brand item2.874cddb39b0bee3d2b3b.png",
+    "static/media/hair product1.png": "/zerofour-Branding/static/media/hair product1.11483ca7ccd6bd89d388.png",
+    "static/media/magzinezerofour.png": "/zerofour-Branding/static/media/magzinezerofour.12b11524c15fa684267e.png",
+    "static/media/luminar 4.png": "/zerofour-Branding/static/media/luminar 4.cd190b6fd7db4e654bef.png",
+    "static/media/kookie2.png": "/zerofour-Branding/static/media/kookie2.e4094278864ad3922a91.png",
+    "static/media/zf.png": "/zerofour-Branding/static/media/zf.0cdf9811f8fc1ab14cff.png",
+    "static/media/zerofour.png": "/zerofour-Branding/static/media/zerofour.542d87384bbf8b681d23.png",
+    "index.html": "/zerofour-Branding/index.html",
+    "main.ecb5eacf.css.map": "/zerofour-Branding/static/css/main.ecb5eacf.css.map",
+    "main.d95e1235.js.map": "/zerofour-Branding/static/js/main.d95e1235.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ecb5eacf.css",
+    "static/js/main.d95e1235.js"
+  ]
+}
